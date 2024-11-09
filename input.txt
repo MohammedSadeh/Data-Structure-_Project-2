@@ -1,0 +1,5 @@
+Welcome to Data Structures and Algorithms.
+This is hello.
+Birzeit University.
+Faculty of Technology and Engineering.
+Electrical and Computer Engineering Department.
